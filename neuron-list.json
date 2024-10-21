@@ -1,0 +1,8 @@
+[
+    {
+        "slug": "weather",
+        "name": "Weather",
+        "description": "Get the current weather for a location",
+        "url": "https://github.com/OnyxNeurons/weather"
+    }
+]
