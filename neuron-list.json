@@ -4,5 +4,11 @@
         "name": "Weather",
         "description": "Get the current weather for a location",
         "url": "https://github.com/OnyxNeurons/weather"
+    },
+    {
+        "slug": "bugbounty",
+        "name": "Bug Bounty",
+        "description": "Get your stats in Bug Bounty platforms",
+        "url": "https://github.com/OnyxNeurons/bugbounty"
     }
 ]
